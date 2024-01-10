@@ -2,6 +2,8 @@
 
 2024년 1월 10일 ~ 2월 7일 5주간 진행되는 양자컴퓨터 활용 기본 교육 레포지토리입니다.
 
+GitHub 사용이 익숙하지 않으신 분은 Box 링크를 이용해서 다운로드 받아주세요 -> [Link!](https://ibm.box.com/s/05efcp2tycz76asa6jfvs5ql2dsbyc2k)
+
 quantum-explorers 폴더에 있는 번역본 파일은 차후 Quantum Explorers 플랫폼으로 옮겨질 예정입니다. 지금은 파일을 받아서 Quantum Lab에 업로드하여 사용해주세요.
 
 ### 커리큘럼
