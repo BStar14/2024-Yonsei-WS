@@ -4,8 +4,6 @@
 
 GitHub 사용이 익숙하지 않으신 분은 Box 링크를 이용해서 다운로드 받아주세요 -> [https://ibm.box.com/s/05efcp2tycz76asa6jfvs5ql2dsbyc2k](https://ibm.box.com/s/05efcp2tycz76asa6jfvs5ql2dsbyc2k)
 
-quantum-explorers 폴더에 있는 번역본 파일은 차후 Quantum Explorers 플랫폼으로 옮겨질 예정입니다. 지금은 파일을 받아서 Quantum Lab에 업로드하여 사용해주세요.
-
 ## 공지사항
 
 - 지난번 수업 중 base 환경에 qiskit을 설치한 것을 삭제하고 싶으신 분은 [how-to-initialize-base](https://github.com/BStar14/2024-Yonsei-WS/tree/main/how-to-initialize-base) 페이지를 참고하여 잘못 설치한 qiskit 패키지를 삭제해주세요.
