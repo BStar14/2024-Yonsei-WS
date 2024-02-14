@@ -1,12 +1,14 @@
 # 2024 연세대학교 양자컴퓨터 활용 기본 교육
 
-2024년 1월 10일 ~ 2월 7일 5주간 진행되는 양자컴퓨터 활용 기본 교육 레포지토리입니다.
+2024년 1월 10일 ~ 2월 14일 (1월 31일 휴강) 5주간 진행된 양자컴퓨터 활용 기본 교육 레포지토리입니다.
 
 GitHub 사용이 익숙하지 않으신 분은 Box 링크를 이용해서 다운로드 받아주세요 -> [https://ibm.box.com/s/05efcp2tycz76asa6jfvs5ql2dsbyc2k](https://ibm.box.com/s/05efcp2tycz76asa6jfvs5ql2dsbyc2k)
 
 ## 공지사항
 
-- 지난번 수업 중 base 환경에 qiskit을 설치한 것을 삭제하고 싶으신 분은 [how-to-initialize-base](https://github.com/BStar14/2024-Yonsei-WS/tree/main/how-to-initialize-base) 페이지를 참고하여 잘못 설치한 qiskit 패키지를 삭제해주세요.
+- 수업 중 base 환경에 qiskit을 설치한 것을 삭제하고 싶으신 분은 [how-to-initialize-base](https://github.com/BStar14/2024-Yonsei-WS/tree/main/how-to-initialize-base) 페이지를 참고하여 잘못 설치한 qiskit 패키지를 삭제해주세요.
+
+- 강의 후 설문조사에 참여해주세요: [https://forms.gle/h3u9sfQxXvRftz4k6](https://forms.gle/h3u9sfQxXvRftz4k6)
 
 ## 주요 링크
 
@@ -28,5 +30,5 @@ GitHub 사용이 익숙하지 않으신 분은 Box 링크를 이용해서 다운
 4주차: Quantum Optimization  
 최적화 문제를 양자컴퓨터로 푸는 방법을 알아보고, 예제를 통해 VQE의 실행 방법을 학습
 
-5주차: Blackhole + Q&A  
-블랙홀 챌린지 문제의 내용을 함께 알아보고 양자정보의 특성에 대해 토론 및 이전 교육 내용 보완
+5주차: Group Challenge + Q&A  
+그룹별로 챌린지 문제를 선택하여 풀어보고 풀이와 아이디어를 발표
